@@ -1,2 +1,3 @@
-#bievenue 
-programme c++ qui affiche "bienvenue"
+# Bienvenue
+Programme C++ qui affiche "Bienvenue le monde !" en utilisant la fonction
+`afficherBienvenue()`.
